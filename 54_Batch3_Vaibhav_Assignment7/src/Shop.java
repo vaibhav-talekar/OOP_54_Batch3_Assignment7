@@ -1,3 +1,11 @@
+/**
+ * @author vaibhav talekar
+ * @version 1.0
+ * start date : 22-10-2024
+ * modified date : 22-10-2024
+ * Topic : Implementation of Generic classes, generic & lambda function & exception handling in using java
+ * Description : Shop class is a generic class having generic function addproduct & fetchproduct
+ */
 
 
 class Shop<T> {
