@@ -1,3 +1,12 @@
+/**
+ * @author vaibhav talekar
+ * @version 1.0
+ * start date : 22-10-2024
+ * modified date : 22-10-2024
+ * Topic : Implementation of Generic classes, generic & lambda function & exception handling in using java
+ * Description : Product class extends Shop class (generic class).The following code add products to Shop class by creating objects that class & implements the lambda function to fetch product from Shop.Also uses try-catch block to handle emptyshop Exception.
+ */
+
 import java.util.function.Consumer;
 
 // Custom exception for empty shop
